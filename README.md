@@ -1,2 +1,2 @@
 # KalkulasiPinjol
-Aplikasi kalkulasi pinjaman online
+Aplikasi kalkulasi pinjaman online sebagai prasyarat UTS matkul pemrograman mobile
