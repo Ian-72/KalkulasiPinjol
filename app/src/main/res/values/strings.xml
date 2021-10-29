@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kalkulasi Pinjol</string>
+    <string name="pinjaman_online">PINJAMAN ONLINE</string>
+    <string name="jumlah_pinjaman">Jumlah Pinjaman</string>
+    <string name="tenor_pinjaman">Tenor Pinjaman</string>
+    <string name="pinjam">Pinjam</string>
+    <string name="bunga" />
+    <string name="biaya" />
+    <string name="total_pinjam" />
+    <string name="total_bersih" />
+    <string name="kalkulasikan">Kalkulasikan</string>
+    <string name="rp_0_00" />
+</resources>
